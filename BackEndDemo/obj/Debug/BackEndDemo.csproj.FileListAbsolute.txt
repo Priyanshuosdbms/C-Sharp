@@ -1,0 +1,10 @@
+C:\Users\RK Niranjan\source\repos\BackEndDemo\bin\Debug\BackEndDemo.exe.config
+C:\Users\RK Niranjan\source\repos\BackEndDemo\bin\Debug\BackEndDemo.exe
+C:\Users\RK Niranjan\source\repos\BackEndDemo\bin\Debug\BackEndDemo.pdb
+C:\Users\RK Niranjan\source\repos\BackEndDemo\obj\Debug\BackEndDemo.csproj.AssemblyReference.cache
+C:\Users\RK Niranjan\source\repos\BackEndDemo\obj\Debug\BackEndDemo.Properties.Resources.resources
+C:\Users\RK Niranjan\source\repos\BackEndDemo\obj\Debug\BackEndDemo.csproj.GenerateResource.cache
+C:\Users\RK Niranjan\source\repos\BackEndDemo\obj\Debug\BackEndDemo.csproj.CoreCompileInputs.cache
+C:\Users\RK Niranjan\source\repos\BackEndDemo\obj\Debug\BackEndDemo.exe
+C:\Users\RK Niranjan\source\repos\BackEndDemo\obj\Debug\BackEndDemo.pdb
+C:\Users\RK Niranjan\source\repos\BackEndDemo\obj\Debug\BackEndDemo.Form1.resources
