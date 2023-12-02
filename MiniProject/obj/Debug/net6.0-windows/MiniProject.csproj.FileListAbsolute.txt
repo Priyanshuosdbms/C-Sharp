@@ -1,0 +1,16 @@
+C:\Users\RK Niranjan\source\repos\MiniProject\bin\Debug\net6.0-windows\MiniProject.exe
+C:\Users\RK Niranjan\source\repos\MiniProject\bin\Debug\net6.0-windows\MiniProject.deps.json
+C:\Users\RK Niranjan\source\repos\MiniProject\bin\Debug\net6.0-windows\MiniProject.runtimeconfig.json
+C:\Users\RK Niranjan\source\repos\MiniProject\bin\Debug\net6.0-windows\MiniProject.dll
+C:\Users\RK Niranjan\source\repos\MiniProject\bin\Debug\net6.0-windows\MiniProject.pdb
+C:\Users\RK Niranjan\source\repos\MiniProject\obj\Debug\net6.0-windows\MiniProject.Form1.resources
+C:\Users\RK Niranjan\source\repos\MiniProject\obj\Debug\net6.0-windows\MiniProject.csproj.GenerateResource.cache
+C:\Users\RK Niranjan\source\repos\MiniProject\obj\Debug\net6.0-windows\MiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RK Niranjan\source\repos\MiniProject\obj\Debug\net6.0-windows\MiniProject.AssemblyInfoInputs.cache
+C:\Users\RK Niranjan\source\repos\MiniProject\obj\Debug\net6.0-windows\MiniProject.AssemblyInfo.cs
+C:\Users\RK Niranjan\source\repos\MiniProject\obj\Debug\net6.0-windows\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\RK Niranjan\source\repos\MiniProject\obj\Debug\net6.0-windows\MiniProject.dll
+C:\Users\RK Niranjan\source\repos\MiniProject\obj\Debug\net6.0-windows\refint\MiniProject.dll
+C:\Users\RK Niranjan\source\repos\MiniProject\obj\Debug\net6.0-windows\MiniProject.pdb
+C:\Users\RK Niranjan\source\repos\MiniProject\obj\Debug\net6.0-windows\MiniProject.genruntimeconfig.cache
+C:\Users\RK Niranjan\source\repos\MiniProject\obj\Debug\net6.0-windows\ref\MiniProject.dll

@@ -1,0 +1,16 @@
+C:\Users\RK Niranjan\source\repos\QuizForms\bin\Debug\net6.0-windows\QuizForms.exe
+C:\Users\RK Niranjan\source\repos\QuizForms\bin\Debug\net6.0-windows\QuizForms.deps.json
+C:\Users\RK Niranjan\source\repos\QuizForms\bin\Debug\net6.0-windows\QuizForms.runtimeconfig.json
+C:\Users\RK Niranjan\source\repos\QuizForms\bin\Debug\net6.0-windows\QuizForms.dll
+C:\Users\RK Niranjan\source\repos\QuizForms\bin\Debug\net6.0-windows\QuizForms.pdb
+C:\Users\RK Niranjan\source\repos\QuizForms\obj\Debug\net6.0-windows\QuizForms.Form1.resources
+C:\Users\RK Niranjan\source\repos\QuizForms\obj\Debug\net6.0-windows\QuizForms.csproj.GenerateResource.cache
+C:\Users\RK Niranjan\source\repos\QuizForms\obj\Debug\net6.0-windows\QuizForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RK Niranjan\source\repos\QuizForms\obj\Debug\net6.0-windows\QuizForms.AssemblyInfoInputs.cache
+C:\Users\RK Niranjan\source\repos\QuizForms\obj\Debug\net6.0-windows\QuizForms.AssemblyInfo.cs
+C:\Users\RK Niranjan\source\repos\QuizForms\obj\Debug\net6.0-windows\QuizForms.csproj.CoreCompileInputs.cache
+C:\Users\RK Niranjan\source\repos\QuizForms\obj\Debug\net6.0-windows\QuizForms.dll
+C:\Users\RK Niranjan\source\repos\QuizForms\obj\Debug\net6.0-windows\refint\QuizForms.dll
+C:\Users\RK Niranjan\source\repos\QuizForms\obj\Debug\net6.0-windows\QuizForms.pdb
+C:\Users\RK Niranjan\source\repos\QuizForms\obj\Debug\net6.0-windows\QuizForms.genruntimeconfig.cache
+C:\Users\RK Niranjan\source\repos\QuizForms\obj\Debug\net6.0-windows\ref\QuizForms.dll
