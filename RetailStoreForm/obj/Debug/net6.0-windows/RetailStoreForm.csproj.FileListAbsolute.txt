@@ -1,0 +1,16 @@
+C:\Users\RK Niranjan\source\repos\RetailStoreForm\bin\Debug\net6.0-windows\RetailStoreForm.exe
+C:\Users\RK Niranjan\source\repos\RetailStoreForm\bin\Debug\net6.0-windows\RetailStoreForm.deps.json
+C:\Users\RK Niranjan\source\repos\RetailStoreForm\bin\Debug\net6.0-windows\RetailStoreForm.runtimeconfig.json
+C:\Users\RK Niranjan\source\repos\RetailStoreForm\bin\Debug\net6.0-windows\RetailStoreForm.dll
+C:\Users\RK Niranjan\source\repos\RetailStoreForm\bin\Debug\net6.0-windows\RetailStoreForm.pdb
+C:\Users\RK Niranjan\source\repos\RetailStoreForm\obj\Debug\net6.0-windows\RetailStoreForm.Form1.resources
+C:\Users\RK Niranjan\source\repos\RetailStoreForm\obj\Debug\net6.0-windows\RetailStoreForm.csproj.GenerateResource.cache
+C:\Users\RK Niranjan\source\repos\RetailStoreForm\obj\Debug\net6.0-windows\RetailStoreForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RK Niranjan\source\repos\RetailStoreForm\obj\Debug\net6.0-windows\RetailStoreForm.AssemblyInfoInputs.cache
+C:\Users\RK Niranjan\source\repos\RetailStoreForm\obj\Debug\net6.0-windows\RetailStoreForm.AssemblyInfo.cs
+C:\Users\RK Niranjan\source\repos\RetailStoreForm\obj\Debug\net6.0-windows\RetailStoreForm.csproj.CoreCompileInputs.cache
+C:\Users\RK Niranjan\source\repos\RetailStoreForm\obj\Debug\net6.0-windows\RetailStoreForm.dll
+C:\Users\RK Niranjan\source\repos\RetailStoreForm\obj\Debug\net6.0-windows\refint\RetailStoreForm.dll
+C:\Users\RK Niranjan\source\repos\RetailStoreForm\obj\Debug\net6.0-windows\RetailStoreForm.pdb
+C:\Users\RK Niranjan\source\repos\RetailStoreForm\obj\Debug\net6.0-windows\RetailStoreForm.genruntimeconfig.cache
+C:\Users\RK Niranjan\source\repos\RetailStoreForm\obj\Debug\net6.0-windows\ref\RetailStoreForm.dll
