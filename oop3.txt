@@ -1,0 +1,3 @@
+Delegates : is an object which refers to a method or you can say it is a reference type variable type variable that can hold
+a reference to the  methods.
+similar to the function pointer in C/C++.

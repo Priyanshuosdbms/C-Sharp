@@ -1,0 +1,32 @@
+Concepts:
+class : User defined data type
+object : individual entity of a class
+abstraction : give only the required details, private,protected and public
+encapsulation : binding all properties under one umbrella
+polymorphism : compile time,run time  : operator overload
+inheritance : using the already existing properties
+message passing
+
+class class_name{
+
+    properties : seperate memory for each object in the class
+
+    methods   : once allocated(access specifier ,args, name)
+}
+
+class main{
+    psvm{
+        class_name object = new class_name();
+    }
+}
+
+Constructor: give properties values / methods,no return type
+    static
+    default
+    copy
+    parametized
+    Constructor chaining
+    
+get and set
+    string[]
+

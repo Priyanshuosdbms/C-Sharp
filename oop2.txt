@@ -1,0 +1,18 @@
+Polymorphism :
+    1. Static or compile time
+        1a. Method Overloading
+        1b. Operatior Overloading
+
+    2. Dynamic or run time
+        2a. Virtual/Over-riding Method
+
+
+Overloading() vs over-riding(Dynamic Polymorphism, can be done using Inheritance):
+virtual function
+Abstraction:
+    1.Abstract class: summary, Abstract Methods-> no implementation(like dictator) , non-Abstract methods(not compulsory to use)
+    2.Interface: doesn't support multiple inheritance(like java) ; One or more Interfaces
+
+
+Unary and Binary Operator Overloading
+Operand, Operator;
